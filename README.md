@@ -1,5 +1,5 @@
 # Algorithms
-Attempts to figure out searching and sorting algorithms from EdX before code was revealed
+Attempts to figure out searching and sorting algorithms from EdX Data Structures and Algorithms before code was revealed
 
 Includes:
   Bubble Sort
